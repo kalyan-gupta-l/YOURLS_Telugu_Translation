@@ -25,7 +25,7 @@ Thanks in Advance :innocent:
 
 ## Credits
 
-Translation maintained by [Kalyan Gupta](https://www.kalyangupta.ml) @kalyan4786
+Translation maintained by [Kalyan Gupta](https://www.kalyangupta.com) @kalyan-gupta
 
 ## License
 
